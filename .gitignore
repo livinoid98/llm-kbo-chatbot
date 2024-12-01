@@ -1,0 +1,7 @@
+backend/.env
+backend2/.env
+backend3/.env
+ragas/.env
+
+backend/news_data/
+backend/news_data2/
